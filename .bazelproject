@@ -1,4 +1,5 @@
 directories:
   .
 targets:
-  ...
+  //x:x
+  //y:y
